@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intent Data Hambatan</string>
+    <string name="hambatan">Hitung Hambatan Listrik</string>
+    <string name="arus">Arus Listrik</string>
+    <string name="potensial">Beda Potensial</string>
+</resources>
